@@ -1,16 +1,13 @@
-# hive_crud
 
-A new Flutter project.
+#Flutter To-Do Application with Hive Database
 
-## Getting Started
+Welcome to the Flutter To-Do Application with Hive Local Database! This simple and intuitive to-do app is built using Flutter and leverages the power of Hive for efficient data persistence.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Welcome to the Flutter To-Do Application with Hive Local Database! This simple and intuitive to-do app is built using Flutter and leverages the power of Hive for efficient data persistence.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Features
+1. User-Friendly Interface: Enjoy a clean and easy-to-navigate user interface for managing your to-do list.
+2. Persistent Storage: Utilize the Hive local database to ensure your to-do items are securely stored on the device.
+3. Priority Sorting: Arrange tasks based on priority, making it easy to focus on what matters most.
+4. Task Completion: Mark tasks as completed with a simple checkbox, enhancing task management.
